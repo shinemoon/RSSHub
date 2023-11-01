@@ -3769,7 +3769,7 @@
         docs:"https://docs.rsshub.app/routes/university#chong-qing-wen-li-xue-yuan",
         source:"/:type",
         target:(params) => {
-                    if (params.type === 'channel_7721.html') {
+                    if (params.type === 'channel_24894.html') {
                         return '/cqwu/news/notify';
                     }
                 } },
@@ -3777,7 +3777,7 @@
         docs:"https://docs.rsshub.app/routes/university#chong-qing-wen-li-xue-yuan",
         source:"/:type",
         target:(params) => {
-                    if (params.type === 'channel_7722.html') {
+                    if (params.type === 'channel_24895.html') {
                         return '/cqwu/news/academiceve';
                     }
                 } } ] },
@@ -6112,6 +6112,11 @@
         docs:"https://docs.rsshub.app/routes/finance#zhong-guo-ren-min-yin-xing",
         source:[ "/redianzhuanti/118742/4122386/4122692/index.html" ],
         target:"/gov/pbc/gzlw" } ] },
+  "samr.gov.cn":{ _name:"国家市场监督管理总局",
+    xgzlyhd:[ { title:"留言咨询",
+        docs:"https://docs.rsshub.app/routes/government#guo-jia-shi-chang-jian-du-guan-li-zong-ju",
+        source:[ "/gjjly/index" ],
+        target:"/gov/samr/xgzlyhd/:category?/:department?" } ] },
   "sasac.gov.cn":{ _name:"国务院国有资产监督管理委员会",
     ".":[ { title:"通用",
         docs:"https://docs.rsshub.app/routes/other#guo-wu-yuan-guo-you-zi-chan-jian-du-guan-li-wei-yuan-hui",
