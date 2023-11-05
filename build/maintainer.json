@@ -1962,7 +1962,8 @@
         "xyqfer"
     ],
     "/douban/doulist/:id": [
-        "LogicJake"
+        "LogicJake",
+        "honue"
     ],
     "/douban/event/hot/:locationId": [
         "xyqfer"
@@ -3217,6 +3218,9 @@
     "/hdu/cs/pg": [
         "legr4ndk"
     ],
+    "/hebtv/nbszxd": [
+        "iamqiz"
+    ],
     "/hellobtc/information/:channel?": [
         "Fatpandac"
     ],
@@ -3653,6 +3657,9 @@
     "/invisionapp/inside-design": [],
     "/iplay/home": [],
     "/ipsw/index/:ptype/:pname": [],
+    "/iqilu/v/category?": [
+        "nczitzk"
+    ],
     "/iqiyi/album/:id": [
         "TonyRL"
     ],
