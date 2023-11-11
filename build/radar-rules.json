@@ -26871,7 +26871,7 @@
         "title": "热搜榜",
         "docs": "https://docs.rsshub.app/routes/social-media#wei-bo",
         "source": "/top/summary",
-        "target": "/weibo/search/hot"
+        "target": "/weibo/search/hot/:fulltext?"
       }
     ]
   },

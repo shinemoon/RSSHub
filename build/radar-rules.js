@@ -14498,7 +14498,7 @@
     s:[ { title:"热搜榜",
         docs:"https://docs.rsshub.app/routes/social-media#wei-bo",
         source:"/top/summary",
-        target:"/weibo/search/hot" } ] },
+        target:"/weibo/search/hot/:fulltext?" } ] },
   "zhihu.com":{ _name:"知乎",
     www:[ { title:"收藏夹",
         docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
